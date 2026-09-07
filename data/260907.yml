@@ -5,13 +5,13 @@ about:
   head: bd720b0
   archived: false
   latestVersion: "v2.3.2"
-  collectedAt: 2026-09-07T05:58:49Z
+  collectedAt: 2026-09-07T18:32:35Z
 timeline:
   created: 2025-01-25
   lastCommit: 2026-07-25
   lastRelease: 2026-07-10
 popularity:
-  star: 440
+  star: 441
   watcher: 3
   fork: 16
   release: 20
@@ -84,7 +84,7 @@ total:
   commit: 164
 ---
 path: /home/runner/.x-repo/github.com/Valkyrie00/bold-brew
-collectedAt: 2026-09-07T05:58:52Z
+collectedAt: 2026-09-07T18:32:38Z
 loc:
   Go:
     code: 4582
@@ -145,7 +145,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:58:55+00:00
+  collectedAt: 2026-09-07T18:32:39+00:00
   platform:
     darwin/arm64:
       name:  bbrew_2.3.2_darwin_arm64.tar.gz
