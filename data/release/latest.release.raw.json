@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3219490,
       "digest": "sha256:9d5fe4dcde1eb4400ffd6d1a012a1ee0b41271198a888675e42499e33c098133",
-      "download_count": 3413,
+      "download_count": 3418,
       "created_at": "2026-07-10T14:32:37Z",
       "updated_at": "2026-07-10T14:32:37Z",
       "browser_download_url": "https://github.com/Valkyrie00/bold-brew/releases/download/v2.3.2/bbrew_2.3.2_darwin_arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3441388,
       "digest": "sha256:6c94b2bc1056f56e7cb3e89e04270f336de61f9c8aa8762d8dc373b2b0a44bd1",
-      "download_count": 13680,
+      "download_count": 13768,
       "created_at": "2026-07-10T14:32:37Z",
       "updated_at": "2026-07-10T14:32:37Z",
       "browser_download_url": "https://github.com/Valkyrie00/bold-brew/releases/download/v2.3.2/bbrew_2.3.2_linux_amd64.tar.gz"

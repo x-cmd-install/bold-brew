@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.3.2"
   latestRelease: "v2.3.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T06:04:09Z
+  collectedAt: 2026-09-09T20:28:46Z
 timeline:
   created: 2025-01-25
   lastCommit: 2026-07-25
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-07-10
   lastPrerelease: 
 popularity:
-  star: 442
+  star: 441
   watcher: 3
   fork: 16
   release: 20
@@ -88,7 +88,7 @@ total:
   commit: 164
 ---
 path: /home/runner/.x-repo/github.com/Valkyrie00/bold-brew
-collectedAt: 2026-09-09T06:04:11Z
+collectedAt: 2026-09-09T20:28:48Z
 loc:
   Go:
     code: 4582
