@@ -38,7 +38,7 @@ Total: **10,286** lines of code across **56** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 440 · **Forks**: 16 · **Open issues**: 32 · **Contributors**: 11
+- **Stars**: 441 · **Forks**: 16 · **Open issues**: 32 · **Contributors**: 11
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **10,286** lines of code across **56** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-07-17 | 0 | 1 | 1 | 0 | 3 | 2 |
-| 90d | 2026-06-17 | 3 | 16 | 1 | 4 | 6 | 36 |
-| last180d | 2026-03-19 | 3 | 16 | 1 | 5 | 9 | 36 |
-| 360d | 2025-09-20 | 8 | 32 | 4 | 15 | 10 | 71 |
-| last720d | 2024-09-25 | 20 | 47 | 4 | 22 | 10 | 164 |
+| 30d | 2026-08-17 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last60d | 2026-07-18 | 0 | 1 | 1 | 0 | 3 | 2 |
+| 90d | 2026-06-18 | 3 | 16 | 1 | 4 | 6 | 36 |
+| last180d | 2026-03-20 | 3 | 16 | 1 | 5 | 9 | 36 |
+| 360d | 2025-09-21 | 8 | 32 | 4 | 15 | 10 | 71 |
+| last720d | 2024-09-26 | 20 | 47 | 4 | 22 | 10 | 164 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for bold-brew lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T06:39:07Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T06:26:44Z._
