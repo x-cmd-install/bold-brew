@@ -48,12 +48,12 @@ Total: **10,286** lines of code across **56** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-07 | 0 | 0 | 1 | 0 | 1 | 0 |
-| 90d | 2026-08-08 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last180d | 2026-05-10 | 3 | 16 | 1 | 5 | 7 | 36 |
-| 360d | 2025-11-11 | 7 | 25 | 4 | 11 | 9 | 65 |
-| last720d | 2024-11-16 | 20 | 47 | 4 | 22 | 10 | 164 |
+| 30d | 2026-10-08 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-09-08 | 0 | 0 | 1 | 0 | 1 | 0 |
+| 90d | 2026-08-09 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last180d | 2026-05-11 | 3 | 16 | 1 | 5 | 7 | 36 |
+| 360d | 2025-11-12 | 7 | 25 | 4 | 11 | 9 | 65 |
+| last720d | 2024-11-17 | 20 | 47 | 4 | 22 | 10 | 164 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for bold-brew lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T08:13:50Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T07:12:27Z._
